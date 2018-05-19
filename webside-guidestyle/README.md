@@ -1,17 +1,17 @@
-# Ayudanos a construir Webside
+# Ayudanos a construir el Webside de Pioneras
 
-## Objetivo
+## Objetivo :white_check_mark:
 
 Establecer la guía de estilos a utilizar en el nuevo sitio web de  PionerasDev a partir de la participación activa y las ideas de las mujeres de la comunidad que quieran dar su visión del sitio.
 
-## Visión del Sitioweb
+## Visión del Sitioweb :eyes:
 
 1. Crear un sitio que sirva como el punto de encuentro de la comunidad donde todxs puedan facilmente encontrar lo que necesiten.
 2. Experimentar con temas de liderazgo, trabajo en equipo y open source.
 
-## Code of Conduct
+## Code of Conduct 
 
-PionerasDev tiene un codigo de conducta [Code of Conduct]() el cual *todxs* lxs participantes deben seguir.
+PionerasDev adopta el [Código de Conducta](https://github.com/colombia-dev/codigo-de-conducta) de ColombiaDev el cual *todxs* lxs participantes deben seguir.
 Este codigo de conducta expresa el comportamiento *minimo* esperado por todxs lxs participantes.
 
 ## Fechas para tener en cuenta
