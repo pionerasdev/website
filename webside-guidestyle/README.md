@@ -9,12 +9,12 @@ Establecer la guía de estilos a utilizar en el nuevo sitio web de  PionerasDev 
 1. Crear un sitio que sirva como el punto de encuentro de la comunidad donde todxs puedan facilmente encontrar lo que necesiten.
 2. Experimentar con temas de liderazgo, trabajo en equipo y open source.
 
-## Code of Conduct 
+## Code of Conduct :books:
 
 PionerasDev adopta el [Código de Conducta](https://github.com/colombia-dev/codigo-de-conducta) de ColombiaDev el cual *todxs* lxs participantes deben seguir.
 Este codigo de conducta expresa el comportamiento *minimo* esperado por todxs lxs participantes.
 
-## Fechas para tener en cuenta
+## Fechas para tener en cuenta :calendar:
 
 | Fecha         | Nota        |
 | ------------- |-------------|
@@ -22,23 +22,23 @@ Este codigo de conducta expresa el comportamiento *minimo* esperado por todxs lx
 | Mayo 31 | Cierre de convocatoria (12 p.m.)|
 | Junio 2 | Anuncio propuesta seleccionada |
 
-## ¿Quién puede participar?
+## ¿Quién puede participar? :girl: :girl:
 
 Todas las mujeres de la comunidad o pertencientes al ámbito que deseen participar y aportar a este proyecto están invitadas a participar con su visión del sitio web de PionerasDev. Pueden participar de forma individual o en pareja.
 
-__¿Quíeres participar pero eres Hombre?__
+__¿Quíeres participar pero eres Hombre?__ :boy:
 ¡No te preocupes! también puedes aportar tu visión haciendo equipo con una mujer que también desee participar.
 
-## ¿Qué debo tener en cuenta para contribuir?
+## ¿Qué debo tener en cuenta para contribuir? :memo:
 
 1. Se espera se tenga en cuenta la visualización tanto [web](./tablet_y_desktop.pdf) como [móvil](./mobile.pdf).
 2. No olvides que en pioneras ya contamos con un [manual de marca](https://company-52227.frontify.com/d/wgdPTjFeSZM8/pionerasdev-style-guide) y esperamos te bases en el para mostrar tu idea.
 
-## ¿Dónde envío mi propuesta?
+## ¿Dónde envío mi propuesta? :outbox_tray:
 
 Completa el siguiente [formulario](https://goo.gl/forms/Wj9JB8bRPheSCnw23) y envíanos tu propuesta.
 
-## Elección de la propuesta elegida
+## Elección de la propuesta elegida :tada:
 
 El equipo organizador de PioenrasDev dará una calificación a las propuestas enviadas y aquella con mejor puntaje será la ganadora.
 
@@ -52,5 +52,5 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 | Maria Camila Gómez |[@camigomez35](https://github.com/camigomez35)|[@camigomez318](https://twitter.com/camigomez318)|
 | Catalina Meneses |[@kathcode](https://github.com/kathcode)|[@Kath_Code](https://twitter.com/Kath_Code)|
 
-### Ten en cuenta
+### Ten en cuenta 
 
