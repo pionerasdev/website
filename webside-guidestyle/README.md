@@ -52,5 +52,10 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 | Maria Camila Gómez |[@camigomez35](https://github.com/camigomez35)|[@camigomez318](https://twitter.com/camigomez318)|
 | Catalina Meneses |[@kathcode](https://github.com/kathcode)|[@Kath_Code](https://twitter.com/Kath_Code)|
 
-### Ten en cuenta 
+### Ten en cuenta :sunglasses:
 
+- (a) Los diseños enviados serán evaluados unicamente con el proposito de escoger la guía de estilos del webside de PionerasDev. Si no escogemos tu propuesta, ¡no te preocupes! este no será utilizado para ningún otro proyecto ni nos lucraremos a partir de tu trabajo.
+
+- (b) Las propuesta enviada en su todo ó en parte es creada por ti y tienes los derechos para ello.
+
+- (c) Este proyecto funciona bajo la [MIT License](../LICENSE)
