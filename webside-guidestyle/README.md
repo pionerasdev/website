@@ -1,4 +1,4 @@
-# Ayudanos a construir el Webside de Pioneras
+# Ayudanos a construir el Website de Pioneras
 
 ## Objetivo :white_check_mark:
 
