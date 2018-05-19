@@ -45,7 +45,7 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 | Nombre        | Github :octocat: | Twitter :bird: |
 | ------------- |-------------|------------|
  Laura Ciro |[@ltciro](https://github.com/ltciro)|[@ltciro](https://twitter.com/ltciro)|
-| Liz Parodi|[@lizparody23](https://github.com/lizparody23)|[@lizparody23 ](https://twitter.com/lizparody23)|
+| Liz Parody|[@lizparody23](https://github.com/lizparody23)|[@lizparody23 ](https://twitter.com/lizparody23)|
 | Marian Villa |[@Marianvilla](https://github.com/marianvilla)|[@Marianvilla](https://twitter.com/Marianvilla)|
 | Juliana Gómez :octocat|[@gomezjuliana](https://github.com/gomezjuliana)|[@gmzjuliana](https://twitter.com/gmzjuliana)|
 | Manuela Castrillón |[@ManuCastrillonM](https://github.com/ManuCastrillonM)|[@ManuCastrillonM](https://twitter.com/ManuCastrillonM)|
@@ -54,7 +54,7 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 
 ### Ten en cuenta :sunglasses:
 
-- (a) Los diseños enviados serán evaluados unicamente con el proposito de escoger la guía de estilos del webside de PionerasDev. Si no escogemos tu propuesta, ¡no te preocupes! este no será utilizado para ningún otro proyecto ni nos lucraremos a partir de tu trabajo.
+- (a) Los diseños enviados serán evaluados unicamente con el proposito de escoger la guía de estilos del Website de PionerasDev. Si no escogemos tu propuesta, ¡no te preocupes! este no será utilizado para ningún otro proyecto ni nos lucraremos a partir de tu trabajo.
 
 - (b) Las propuesta enviada en su todo ó en parte es creada por ti y tienes los derechos para ello.
 
