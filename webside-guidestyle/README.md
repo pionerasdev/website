@@ -47,7 +47,7 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
  Laura Ciro |[@ltciro](https://github.com/ltciro)|[@ltciro](https://twitter.com/ltciro)|
 | Liz Parody|[@lizparody23](https://github.com/lizparody23)|[@lizparody23 ](https://twitter.com/lizparody23)|
 | Marian Villa |[@Marianvilla](https://github.com/marianvilla)|[@Marianvilla](https://twitter.com/Marianvilla)|
-| Juliana Gómez :octocat|[@gomezjuliana](https://github.com/gomezjuliana)|[@gmzjuliana](https://twitter.com/gmzjuliana)|
+| Juliana Gómez |[@gomezjuliana](https://github.com/gomezjuliana)|[@gmzjuliana](https://twitter.com/gmzjuliana)|
 | Manuela Castrillón |[@ManuCastrillonM](https://github.com/ManuCastrillonM)|[@ManuCastrillonM](https://twitter.com/ManuCastrillonM)|
 | Maria Camila Gómez |[@camigomez35](https://github.com/camigomez35)|[@camigomez318](https://twitter.com/camigomez318)|
 | Catalina Meneses |[@kathcode](https://github.com/kathcode)|[@Kath_Code](https://twitter.com/Kath_Code)|
