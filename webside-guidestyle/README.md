@@ -58,4 +58,6 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 
 - (b) Las propuesta enviada en su todo ó en parte es creada por ti y tienes los derechos para ello.
 
-- (c) Este proyecto funciona bajo la [MIT License](../LICENSE)
+- (c) Se dará agradecimiento a cada unx de lxs participantes y los creditos a lxs ganadores.
+
+- (d) Este proyecto funciona bajo la [MIT License](../LICENSE)
