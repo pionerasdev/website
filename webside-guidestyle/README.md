@@ -1,18 +1,18 @@
-# Ayudanos a construir el Website de Pioneras
+# Ayúdanos a construir el Website de Pioneras
 
 ## Objetivo :white_check_mark:
 
 Establecer la guía de estilos a utilizar en el nuevo sitio web de  PionerasDev a partir de la participación activa y las ideas de las mujeres de la comunidad que quieran dar su visión del sitio.
 
-## Visión del Sitioweb :eyes:
+## Visión del Sitio web :eyes:
 
-1. Crear un sitio que sirva como el punto de encuentro de la comunidad donde todxs puedan facilmente encontrar lo que necesiten.
+1. Crear un sitio que sirva como el punto de encuentro de la comunidad donde todxs puedan fácilmente encontrar lo que necesiten.
 2. Experimentar con temas de liderazgo, trabajo en equipo y open source.
 
 ## Code of Conduct :books:
 
 PionerasDev adopta el [Código de Conducta](https://github.com/colombia-dev/codigo-de-conducta) de ColombiaDev el cual *todxs* lxs participantes deben seguir.
-Este codigo de conducta expresa el comportamiento *minimo* esperado por todxs lxs participantes.
+Este código de conducta expresa el comportamiento *minimo* esperado por todxs lxs participantes.
 
 ## Fechas para tener en cuenta :calendar:
 
@@ -24,9 +24,9 @@ Este codigo de conducta expresa el comportamiento *minimo* esperado por todxs lx
 
 ## ¿Quién puede participar? :girl: :girl:
 
-Todas las mujeres de la comunidad o pertencientes al ámbito que deseen participar y aportar a este proyecto están invitadas a participar con su visión del sitio web de PionerasDev. Pueden participar de forma individual o en pareja.
+Todas las mujeres de la comunidad o pertenecientes al ámbito que deseen participar y aportar a este proyecto están invitadas a participar con su visión del sitio web de PionerasDev. Pueden participar de forma individual o en pareja.
 
-__¿Quíeres participar pero eres Hombre?__ :boy:
+__¿Quieres participar pero eres Hombre?__ :boy:
 ¡No te preocupes! también puedes aportar tu visión haciendo equipo con una mujer que también desee participar.
 
 ## ¿Qué debo tener en cuenta para contribuir? :memo:
@@ -54,10 +54,10 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 
 ### Ten en cuenta :sunglasses:
 
-- (a) Los diseños enviados serán evaluados unicamente con el proposito de escoger la guía de estilos del Website de PionerasDev. Si no escogemos tu propuesta, ¡no te preocupes! este no será utilizado para ningún otro proyecto ni nos lucraremos a partir de tu trabajo.
+- (a) Los diseños enviados serán evaluados únicamente con el propósito de escoger la guía de estilos del Website de PionerasDev. Si no escogemos tu propuesta, ¡no te preocupes! este no será utilizado para ningún otro proyecto ni nos lucraremos a partir de tu trabajo.
 
 - (b) Las propuesta enviada en su todo ó en parte es creada por ti y tienes los derechos para ello.
 
-- (c) Se dará agradecimiento a cada unx de lxs participantes y los creditos a lxs ganadores.
+- (c) Se dará agradecimiento a cada unx de lxs participantes y los créditos a lxs ganadores.
 
 - (d) Este proyecto funciona bajo la [MIT License](../LICENSE)
