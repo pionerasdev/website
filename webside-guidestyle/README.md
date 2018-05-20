@@ -62,3 +62,8 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 - (c) Se dará agradecimiento a cada unx de lxs participantes y los créditos a lxs ganadores.
 
 - (d) Este proyecto funciona bajo la [MIT License](../LICENSE)
+
+
+##### Nota:]
+
+El ejemplo fue realizado por Hugo Laguna :octocat: [@HugoLaguna](https://github.com/HugoLaguna/HugoLaguna.com)
