@@ -66,4 +66,4 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 
 ##### Nota:]
 
-El ejemplo fue realizado por Hugo Laguna :octocat: [@HugoLaguna](https://github.com/HugoLaguna/HugoLaguna.com)
+El ejemplo aquí expuesto fue realizado por Hugo Laguna para el curso Desarrollo de Aplicaciones Empresariales de la UdeA en el semestre 2017-2 :octocat: [@HugoLaguna](https://github.com/HugoLaguna)
