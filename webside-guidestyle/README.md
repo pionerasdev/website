@@ -64,6 +64,6 @@ El equipo organizador de PioenrasDev dará una calificación a las propuestas en
 - (d) Este proyecto funciona bajo la [MIT License](../LICENSE)
 
 
-##### Nota:]
+##### Nota:
 
 El ejemplo aquí expuesto fue realizado por Hugo Laguna para el curso Desarrollo de Aplicaciones Empresariales de la UdeA en el semestre 2017-2 :octocat: [@HugoLaguna](https://github.com/HugoLaguna)
