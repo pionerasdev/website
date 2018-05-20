@@ -32,7 +32,8 @@ __¿Quieres participar pero eres Hombre?__ :boy:
 ## ¿Qué debo tener en cuenta para contribuir? :memo:
 
 1. Se espera se tenga en cuenta la visualización tanto [web](./tablet_y_desktop.pdf) como [móvil](./mobile.pdf).
-2. No olvides que en pioneras ya contamos con un [manual de marca](https://company-52227.frontify.com/d/wgdPTjFeSZM8/pionerasdev-style-guide) y esperamos te bases en el para mostrar tu idea.
+2. No olvides que en pioneras ya contamos con un [manual de marca](https://company-52227.frontify.com/d/wgdPTjFeSZM8/pionerasdev-style-guide) y esperamos te bases en el para mostrar tu idea. 
+3. Aquí puedes encontrar un pequeño [ejemplo](./HOTELZ.pdf) de que estamos esperando, dale tu toque y sientete en la libertad de agregar lo que consideres.
 
 ## ¿Dónde envío mi propuesta? :outbox_tray:
 
