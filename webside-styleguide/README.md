@@ -19,7 +19,7 @@ Este código de conducta expresa el comportamiento *minimo* esperado por todxs l
 | Fecha         | Nota        |
 | ------------- |-------------|
 | Mayo 19 | Lanzamiento e inicio del convocatoria |
-| Mayo 31 | Cierre de convocatoria (12 p.m.)|
+| Junio 11 | Cierre de convocatoria (12 p.m.)|
 | Junio 2 | Anuncio propuesta seleccionada |
 
 ## ¿Quién puede participar? :girl: :girl:
